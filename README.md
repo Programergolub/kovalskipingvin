@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kovalskipingvin
+- 👀 I’m interested in Python, dveeloping, etc.
+- 🌱 I’m currently learning ... a LLM
+- 💞️ I’m looking to collaborate on ... nothing
+- 📫 How to reach me ... nothing 
