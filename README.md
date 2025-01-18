@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kovalskipingvin
+- 👋 Hi, I’m @programergolub
 - 👀 I’m interested in Python, dveeloping, etc.
 - 🌱 I’m currently learning ... a LLM
 - 💞️ I’m looking to collaborate on ... nothing
